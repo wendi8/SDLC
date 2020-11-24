@@ -3,5 +3,11 @@ Definiton of sdlc
 purpose 
 
 stages 
+planning
+design 
+development 
+testing
+implementation 
+maintance 
 
 methodolodgies 
